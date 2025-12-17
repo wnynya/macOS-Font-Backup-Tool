@@ -1,0 +1,12 @@
+{
+  "name": "macos-font-backup-tool",
+  "version": "1.0.0",
+  "description": "macOS Font Backup Tool",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
